@@ -14,7 +14,7 @@
 
 :white_check_mark: Indicar usuário para add no grupo
 
-:ballot_box_with_check: Definir tema central
+:white_check_mark: Definir tema central
 
 :ballot_box_with_check: Elaborar um cenário base para a aplicação: O que se pretende entregar, funcionalidades possível etc.
 
