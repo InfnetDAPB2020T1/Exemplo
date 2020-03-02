@@ -29,3 +29,5 @@
 :black_square_button: Elaborar as Histórias de Usuário
 
 :black_square_button: Construir e organizar o Product Backlog
+
+:black_square_button: Realizar reunião de planejamento
