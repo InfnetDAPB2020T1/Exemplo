@@ -31,3 +31,35 @@
 :black_square_button: Construir e organizar o Product Backlog
 
 :black_square_button: Realizar reunião de planejamento
+
+
+# Dinâmicas
+
+## Feedback
+
+### Setup
+
+:black_square_button: Reunir-se com o time
+
+:black_square_button: O PO do seu time se reúne com outro time
+
+:black_square_button: O seu time recebe outro PO
+
+### 1° turno
+
+:black_square_button: O PO apresentará o projeto para o seu time
+
+:black_square_button: O seu time tira dúvidas sobre o produto
+
+:black_square_button: O seu time tem que explicar o projeto apresentado pelo PO
+
+### 2° turno 
+
+:black_square_button: O time apresenta sugestões para o projeto ao PO
+
+:black_square_button: PO volta para o seu time
+
+:black_square_button: Time define uma sugestão para ser atendida
+
+### 3° turno
+
