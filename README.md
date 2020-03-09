@@ -63,4 +63,4 @@
 
 ### 3° turno
 
-:black_square_button: Refinar o Product Backlog
+:black_square_button: O Time refina o Product Backlog
