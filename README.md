@@ -7,6 +7,10 @@
 # Cenário
 
 # Tarefas
+
+# Apis Públicas
+https://github.com/public-apis/public-apis
+
 ## Check-list
 :white_check_mark: Definir o grupo
 
