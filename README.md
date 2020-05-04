@@ -160,5 +160,65 @@ mais quem tem tempo limitado durante a semana.
 
 ## :blue_book: PRÓS
 :ballot_box_with_check:
+# Prós
 
-- 
+- Participação da turma
+
+- Professor Thiago Aguiar muito atencioso, mesmo com as aulas pelo ZOOM foi bem dinâmico e didático.
+
+- Professores Acessíveis.
+
+- Aulas bem planejadas(Desenvolvimento Kotlin, Fundamentos do Desenvolvimento Android e Projeto de Bloco)
+
+apresentação dos projetos
+colocar em prática os assuntos abordados nas aulas de kotlin
+kotlin - bom planejamento das aulas com início, meio e fim
+kotlin - professor ter domínio do assunto a ser explicado durante as aulas
+
+Traz conhecimentos relevantes 
+Bom suporte para os alunos
+Professor Thiago traz equilíbrio entre teoria e prática
+
+DISCIPLINA SEGURANÇA: Nunca faltou empenho e esforço do professor.
+DISCIPLINA PB E DESENVOLVIMENTO: Nota 10 kkk. Thiago para mim foi o que mais se doou 
+e se preparou para essas aulas online. Parabéns prof. Sempre prestativo e muito claro em sua explicação.
+Passou segurança para os alunos e se não fosse você nessa disciplina, acho que as coisas teriam sido turbulentas...
+
+Pontualidade do professor nas aulas.
+
+Consigo enxergar melhor o código pelo computador de casa do que na sala de aula.
+
+Comunicação do grupo
+Sinceridade com dificuldades
+
+- Disponibilidade e facilidade de tirar dúvidas.
+- Profundidade dos temas tratados. Outros cursos parecem não se preocupar
+tanto em abordar certos temas do android.
+
+
+-aulas gravada,
+
+
+Pontualidade dos professores atualmente.
+Bom aproveitamento no tempo de aula 
+
+- Conhecer uma metologia ágil
+- Desenvolver um projeto seguindo boas práticas
+- Conhecer a tecnologia Kotlin
+- Estações de trabalho boas com pequenas exceções na biblioteca que possui computadores que não suportam o android studio,
+- Nas disciplinas de desenvolvimento kotlin as aulas tiveram muitos momentos de prática possibilitando que no estudo individual o aluno consiga progredir e pesquisar por conta própria.
+- Ambos os professores são muito solicitos no acompanhamento do aluno, sempre tendo uma pronta resposta para dúvidas solicitadas por email e outros canais
+
+
+
+
+
+
+# Prós [ Projeto de bloco ]
+
+SQLite, a utilização é bem mais fácil que os comandos normais (INSERT INTO... SELECT * FROM)(Não que não tenha que utilizar), junto as funções assincronas que também foram bem úteis, só senti falta de atribuir o resultado da função assincrona em uma variável. Ex:
+var resultado = AsyncFunction().execute()
+Não vejo a hora de utilizar o firebase.
+
+# Prós [ Tudo ]
+- Aulas práticas com assuntos abordados durante as aulas
