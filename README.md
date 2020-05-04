@@ -68,3 +68,16 @@ https://github.com/public-apis/public-apis
 ### 3° turno
 
 :black_square_button: O Time refina o Product Backlog
+
+
+# Retrospectiva
+
+## :ledger: CONTRAS
+:white_check_mark: 
+
+- 
+
+## :blue_book: PRÓS
+:ballot_box_with_check:
+
+- 
